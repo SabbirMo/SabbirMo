@@ -22,7 +22,7 @@ I'm a dedicated **Flutter Developer** with a strong focus on building **real-tim
 *   ⚡ **Real-Time Expertise:** Building robust chat systems and live updates with **WebSocket (Django Channels)**.
 *   🏗️ **Architecture:** Advocate for **Clean Architecture** to ensure scalable, testable, and maintainable codebases.
 *   🔔 **Engagement:** Implementing **Firebase Cloud Messaging (FCM)** for rich push notification experiences.
-*   🚀 **Current Focus:** Deepening expertise in advanced Flutter state management (Riverpod/GetX) and contributing to open-source.
+*   🚀 **Current Focus:** Deepening expertise in advanced Flutter state management and contributing to open-source.
 
 ---
 
@@ -49,6 +49,7 @@ I'm a dedicated **Flutter Developer** with a strong focus on building **real-tim
 ### **State Management & APIs**
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-25A2EB?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-6C5CE7?style=for-the-badge&logo=flutter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
@@ -58,6 +59,7 @@ I'm a dedicated **Flutter Developer** with a strong focus on building **real-tim
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -81,7 +83,7 @@ I'm a dedicated **Flutter Developer** with a strong focus on building **real-tim
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabbirMo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sabbirsamolla51@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 
