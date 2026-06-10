@@ -71,7 +71,8 @@ I'm a dedicated **Flutter Developer** with a strong focus on building **real-tim
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabbirMo&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirMo&layout=compact&theme=nightowl&hide_border=true&langs_count=8" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=SabbirMo&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SabbirMo&theme=dark" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabbirMo&theme=nightowl&hide_border=true&area=true&bg_color=0D1117" width="100%"/>
 </div>
